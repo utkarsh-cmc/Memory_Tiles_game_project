@@ -1,2 +1,2 @@
-# simon_game_project
+# Memory Tiles
 JS and JQuery based memory game 
